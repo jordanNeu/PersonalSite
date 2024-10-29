@@ -1,0 +1,37 @@
+#portfolio-img {
+    width: 500px;
+    border-radius: 5px;
+}
+
+#links {
+    width: 25px;
+}
+
+#bottom-foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+body {
+    font-family: Inter;
+}
+
+.top-buffer {
+    margin-top: 110px;
+}
+
+.left-side {
+    border-right: black;
+}
+
+.about-img {
+    width: 350px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.footer {
+    font-size: 14px;
+}
